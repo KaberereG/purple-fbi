@@ -1,0 +1,86 @@
+  {
+            "eyes": "brown",
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/nunezspanish.pdf/@@download/file/NunezSpanish.pdf"
+                }
+            ],
+            "uid": "07909fc7290c4a34a289eda0354528ab",
+            "age_range": null,
+            "sex": "Male",
+            "additional_information": null,
+            "dates_of_birth_used": [
+                "December 12, 1976"
+            ],
+            "person_classification": "Main",
+            "languages": null,
+            "modified": "2025-02-20T19:13:17+00:00",
+            "title": "JOSE GUADALUPE LOPEZ NUNEZ",
+            "possible_countries": null,
+            "place_of_birth": "Mezquital del Oro, Zacatecas, Mexico",
+            "reward_max": 0,
+            "subjects": [
+                "Violent Crime - Murders"
+            ],
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "height_max": 65,
+            "hair": "black",
+            "race_raw": "White (Hispanic)",
+            "eyes_raw": "Brown",
+            "poster_classification": "default",
+            "weight_max": 175,
+            "status": "na",
+            "ncic": "W912278264",
+            "age_min": null,
+            "remarks": "<p>Lopez Nunez may have ties to the states of Jalisco and Zacatecas in Mexico.</p>",
+            "age_max": null,
+            "scars_and_marks": null,
+            "reward_min": 0,
+            "weight_min": 175,
+            "complexion": null,
+            "description": "Unlawful Flight to Avoid Prosecution - Murder",
+            "coordinates": [],
+            "field_offices": [
+                "sacramento"
+            ],
+            "possible_states": null,
+            "suspects": null,
+            "publication": "2021-06-21T09:35:00",
+            "height_min": 65,
+            "race": "hispanic",
+            "url": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez",
+            "caution": "<p>Jose Guadalupe Lopez Nunez is wanted for his alleged participation in the intentional killing of his girlfriend in Sacramento County, California, and the disposal of her body in the Sacramento River.  An angler discovered her body in the Sacramento River near Isleton, California, on September 4, 2017.</p>\r\n<p> </p>\r\n<p>On October 16, 2017, the Sacramento County Sheriff’s Office obtained a felony no-bail arrest warrant for Lopez Nunez in the Superior Court of California, Sacramento County, California, charging him with murder.  A federal arrest warrant was issued for Lopez Nunez on October 24, 2017, in the United States District Court, Eastern District of California, Sacramento, California, after he was charged with unlawful flight to avoid prosecution.</p>\r\n<p> </p>",
+            "images": [
+                {
+                    "original": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/@@images/image",
+                    "large": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/@@images/image/large",
+                    "caption": null,
+                    "thumb": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/@@images/image/thumb"
+                },
+                {
+                    "original": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/nunez2.jpg",
+                    "large": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/nunez2.jpg/@@images/image/large",
+                    "caption": "Photograph taken in 2016",
+                    "thumb": "https://www.fbi.gov/wanted/murders/jose-guadalupe-lopez-nunez/nunez2.jpg/@@images/image/thumb"
+                }
+            ],
+            "locations": null,
+            "occupations": null,
+            "build": null,
+            "details": null,
+            "aliases": [
+                "Jose Guadalupe Nunez Lopez"
+            ],
+            "legat_names": null,
+            "path": "/wanted/murders/jose-guadalupe-lopez-nunez",
+            "reward_text": "The FBI is offering a reward of up to $5,000 for information leading to the arrest of Jose Guadalupe Lopez Nunez.",
+            "hair_raw": "Black",
+            "nationality": "Mexican",
+            "weight": "175 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/07909fc7290c4a34a289eda0354528ab"
+        }
