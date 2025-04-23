@@ -84,7 +84,7 @@ const WantedList = () => {
           </div>)
         )}
       </div>    
-      <Modal size="lg" aria-labelledby="contained-modal-title-vcenter" centered show={personModal.status}>
+      <Modal size="lg" aria-labelledby="contained-modal-title-vcenter" centered show={personModal.status}  onHide={() => setPersonModal({ status: false})}>
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">{personModal.data?.title}</Modal.Title>
       </Modal.Header>

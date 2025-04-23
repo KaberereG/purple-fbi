@@ -4,6 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
+    "dev": "nodemon server.js",
     "start": "node server.js",
     "test": "jest"
   },
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.26.9",
-    "babel-jest": "^29.7.0"
+    "babel-jest": "^29.7.0",
+    "nodemon": "^3.1.9"
   }
 }
